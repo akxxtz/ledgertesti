@@ -1,0 +1,27 @@
+transaction_id,user_id,type,amount,description,date
+1,1,debit,500,makan makan,2025-01-03
+2,1,debit,90,transport,2025-01-03
+3,1,debit,4000,daddy,2025-01-03
+4,1,credit,300,flight,2025-01-03
+5,1,debit,580,part time,2025-01-03
+6,1,credit,700,new money,2025-01-03
+7,1,credit,600,GAMBLE,2025-01-03
+8,1,debit,200,eat,2025-01-03
+9,2,debit,700,chair,2025-01-03
+10,1,debit,300,Pokemon TCG,2025-01-03
+11,1,credit,32,food,2025-01-03
+12,1,debit,211,motel,2025-01-03
+13,1,debit,333,ink,2025-01-03
+14,1,debit,300,suitcase,2025-01-04
+15,1,credit,431,ren,2025-01-04
+16,1,debit,300,Mother kasi,2025-01-04
+17,1,debit,20,food,2025-01-04
+18,1,debit,100,hi,2025-01-04
+19,1,debit,20,hihi,2025-01-04
+20,1,debit,200,money,2025-01-04
+21,1,debit,1000,uiui,2025-01-04
+22,1,debit,500,Copywriting,2025-01-04
+23,1,debit,400,books,2025-01-04
+24,1,debit,20,sa,2025-01-04
+25,1,debit,23,soo,2025-01-04
+26,1,credit,7000,Flight to Japan,2025-01-07
